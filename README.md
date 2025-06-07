@@ -12,8 +12,14 @@ Proyek ini bertujuan untuk menyediakan data kode wilayah yang terstruktur, bersi
 **IBM Data Analyst Professional Certificate (V3)** Link: [https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917](https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917)
 ---
 ## REFERENSI
-1. SUMBER DATA WILAYAH 2025 :  https://bit.ly/KepmendagriNo300-2-2-2138-Tahun2025
-> SESUAI ACUAN a. Provinsi : 38 b. Kabupaten : 416 c. Kota : 98 d. Kecamatan : 7.285 e. Kelurahan : 8.496 f. Desa : 75.266
+1.  **SUMBER DATA WILAYAH 2025:** [Kepmendagri No. 300.2.2-2138 Tahun 2025](https://bit.ly/KepmendagriNo300-2-2-2138-Tahun2025)
+    > Sesuai acuan, total cakupan data adalah sebagai berikut:
+    > * Provinsi: 38
+    > * Kabupaten: 416
+    > * Kota: 98
+    > * Kecamatan: 7.285
+    > * Kelurahan: 8.496
+    > * Desa: 75.266
 
 ### 📂 Struktur Data
 
