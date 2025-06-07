@@ -1,10 +1,14 @@
 # Open Data: Kode Wilayah Administrasi Kemendagri 2025
 
-
 > Repositori data terbuka untuk Kode dan Data Wilayah Administrasi Pemerintahan Indonesia terbaru sesuai Kepmendagri tahun 2025. MENGGUNAKAN KOMBINASI OCR UNTUK PDF DAN PENGOLAHAN DATA DENGAN EXCEL UNTUK MENJADI MASTER WILAYAH
 
 Proyek ini bertujuan untuk menyediakan data kode wilayah yang terstruktur, bersih, dan mudah diakses dalam format CSV bagi para developer, analis data, peneliti, dan masyarakat umum.
-
+## PROFIL
+Yonatan Yusak Lestari
+Data Analytics at Kementerian Koperasi | CompTIA Data+ Certified | Informatics Student
+Highly motivated Informatics student with a strong foundation in leadership and data analytics. Proven ability to analyze complex data, uncover meaningful insights, and support data-driven decision-making. Eager to contribute to a dynamic team and leverage my skills to solve real-world challenges in a fast-paced environment. Seeking an entry-level position in data analytics, data science, business intelligence, or analytics to gain practical experience and contribute to the success of a growing organization.
+**CompTIA Data+ Certifiec (DA-001)** Link : https://www.credly.com/badges/123821bf-ac81-4f95-885a-f2286ae24e05
+**IBM Data Analyst Professional Certificate (V3)**Link : https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917
 ---
 ## REFERENSI
 1. SUMBER DATA WILAYAH 2025 :  https://bit.ly/KepmendagriNo300-2-2-2138-Tahun2025
@@ -34,6 +38,11 @@ Proyek ini bersifat terbuka untuk kolaborasi. Jika Anda menemukan kesalahan, dat
 
 1.  **Membuat 'Issue'**: Klik tab "Issues" di atas dan buat laporan baru.
 2.  **Mengajukan 'Pull Request'**: Jika Anda bisa memperbaiki datanya langsung, silakan lakukan Pull Request.
+3.  **JIKA INGIN DATA LAIN SEPERTI LUAS WILAYAH, JUMLAH PENDUDUK (JIWA), KETERANGAN PERUBAHAN TERAKHIR dsb. BISA HUBUNGI**
+LINKEDIN : linkedin.com/in/yonatanyl/ INSTAGRAM : instagram.com/yonatanyl
+
+### KERJASAMA
+LINKEDIN : linkedin.com/in/yonatanyl/ INSTAGRAM : instagram.com/yonatanyl
 
 ### ⚖️ Lisensi
 
