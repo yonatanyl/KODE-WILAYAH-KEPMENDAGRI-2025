@@ -11,6 +11,7 @@ Proyek ini bertujuan untuk menyediakan data kode wilayah yang terstruktur, bersi
 **CompTIA Data+ Certified (DA-001)** Link: [https://www.credly.com/badges/123821bf-ac81-4f95-885a-f2286ae24e05](https://www.credly.com/badges/123821bf-ac81-4f95-885a-f2286ae24e05)
 **IBM Data Analyst Professional Certificate (V3)** Link: [https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917](https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917)
 ---
+
 ## REFERENSI
 1.  **SUMBER DATA WILAYAH 2025:** [Kepmendagri No. 300.2.2-2138 Tahun 2025](https://bit.ly/KepmendagriNo300-2-2-2138-Tahun2025)
     > Sesuai acuan, total cakupan data adalah sebagai berikut:
@@ -24,7 +25,6 @@ Proyek ini bertujuan untuk menyediakan data kode wilayah yang terstruktur, bersi
 ### 📂 Struktur Data
 
 Data utama dapat ditemukan di file [`KEPMENDAGRI 2025_PUBLIC_GITHUB.csv`](./KEPMENDAGRI 2025_PUBLIC_GITHUB.csv).
-
 Berikut adalah penjelasan untuk setiap kolom:
 
 | Nama Kolom                      | Deskripsi                               | Contoh          |
@@ -38,7 +38,6 @@ Berikut adalah penjelasan untuk setiap kolom:
 | `KODE DESA`                     | Kode Desa/Kelurahan (10 digit)          | `32.73.01.1002` |
 | `NAMA KELURAHAN/DESA/DESA ADAT` | Nama Desa/Kelurahan                     | `Gegerkalong`   |
 
-
 ### 💡 Cara Berkontribusi
 
 Proyek ini bersifat terbuka untuk kolaborasi. Jika Anda menemukan kesalahan, data yang tidak akurat, atau pemekaran wilayah yang belum tercatat, silakan berkontribusi dengan cara:
@@ -46,10 +45,12 @@ Proyek ini bersifat terbuka untuk kolaborasi. Jika Anda menemukan kesalahan, dat
 1.  **Membuat 'Issue'**: Klik tab "Issues" di atas dan buat laporan baru.
 2.  **Mengajukan 'Pull Request'**: Jika Anda bisa memperbaiki datanya langsung, silakan lakukan Pull Request.
 3.  **JIKA INGIN DATA LAIN SEPERTI LUAS WILAYAH, JUMLAH PENDUDUK (JIWA), KETERANGAN PERUBAHAN TERAKHIR dsb. BISA HUBUNGI**
-LINKEDIN : linkedin.com/in/yonatanyl/ INSTAGRAM : instagram.com/yonatanyl
+    * **LINKEDIN**: [linkedin.com/in/yonatanyl/](https://linkedin.com/in/yonatanyl/)
+    * **INSTAGRAM**: [instagram.com/yonatanyl](https://instagram.com/yonatanyl)
 
 ### KERJASAMA
-LINKEDIN : linkedin.com/in/yonatanyl/ INSTAGRAM : instagram.com/yonatanyl
+* **LINKEDIN**: [linkedin.com/in/yonatanyl/](https://linkedin.com/in/yonatanyl/)
+* **INSTAGRAM**: [instagram.com/yonatanyl](https://instagram.com/yonatanyl)
 
 ### ⚖️ Lisensi
 
