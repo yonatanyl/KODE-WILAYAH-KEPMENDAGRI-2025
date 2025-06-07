@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk menyediakan data kode wilayah yang terstruktur, bersi
 ## PROFIL
 >Yonatan Yusak Lestari
 >Data Analytics at Kementerian Koperasi | CompTIA Data+ Certified | Informatics Student
->Highly motivated Informatics student with a strong foundation in leadership and data analytics. Proven ability to analyze complex data, uncover meaningful insights, and support data-driven decision-making. Eager to contribute to a dynamic team and leverage my skills to solve real-world challenges in a fast-paced environment. Seeking an entry-level position in data analytics, data science, business intelligence, or analytics to gain practical experience and contribute to the success of a growing organization.
+>Highly motivated Informatics student with a strong foundation in leadership and data analytics. Proven ability to analyze complex data, uncover meaningful insights, and support data-driven decision-making. Eager to contribute to a dynamic team and leverage my skills to solve real-world challenges in a fast-paced environment. **Seeking an entry-level position in data analytics, data science, business intelligence, or analytics** to gain practical experience and contribute to the success of a growing organization.
 
 **CompTIA Data+ Certified (DA-001)** Link: [https://www.credly.com/badges/123821bf-ac81-4f95-885a-f2286ae24e05](https://www.credly.com/badges/123821bf-ac81-4f95-885a-f2286ae24e05)
 **IBM Data Analyst Professional Certificate (V3)** Link: [https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917](https://www.credly.com/badges/2ac91d6f-63e9-414d-91f3-81ee9bf14917)
